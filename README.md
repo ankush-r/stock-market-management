@@ -1,1 +1,1 @@
-# stock-market-management
+Assignment 3 : FE Mini Project
